@@ -18,6 +18,10 @@ export default createGlobalStyle`
         font: 16px Roboto, sans-serif
     }
 
+    button{
+        cursor:pointer
+    }
+
     #root {
         max-width: 960px;
         margin: 0 auto;
